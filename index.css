@@ -1,0 +1,68 @@
+body{
+    background-color: rgb(221, 154, 166);
+    color: rgb(61, 41, 11);
+    
+}
+    
+.img1{
+    height: 70px;
+    width: 70px;
+    border-radius: 50%;
+    position: absolute;
+    left: 90%;
+    top: 2px;
+    border: 2px solid rgb(5, 5, 5);
+    
+}
+.pro{
+    border: 5px solid rgb(5, 5, 5);
+    box-shadow: 3px 3px 5px 5px rgb(27, 1, 1);
+    background-color: darkgray;
+    
+}
+.pro1, 
+.pro2,
+.pro3,
+.pro4,
+.pro5,
+.pro6,
+.pro7,
+.pro8 { 
+    background-color: slategrey;
+    height: 150px;
+    width: 150px;
+    color: black;
+    text-align: center;
+   
+box-shadow: 3px 3px 3px 3px rgb(41, 51, 45);
+
+margin: 2rem;
+  display: inline-block;
+  place-items: center;
+  box-shadow: 5px 5px 5px 5px rgb(27, 1, 1);
+  border-width: 30px;
+  
+  padding: 20px;
+  
+
+
+
+
+} 
+button {
+    background-color: peru;
+    border-radius: 13px;
+}
+h1 {
+    text-align: center;
+    text-shadow: 2px 2px 5px  purple;
+}
+pre {
+    text-align: end;
+}
+h2 {
+    text-align: center;
+    font-family:'Brush Script MT', Cursive;
+    color: rgb(61, 41, 11);
+    text-shadow: 3px 3px 3px slategrey;
+}
